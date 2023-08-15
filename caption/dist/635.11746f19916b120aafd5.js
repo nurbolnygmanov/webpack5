@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknuset=self.webpackChunknuset||[]).push([[635],{635:(e,n,t)=>{t.r(n),t.d(n,{Caption:()=>s});class s{render(e){const n=document.createElement("p");n.innerHTML=e,document.querySelector("body").appendChild(n)}}}}]);
